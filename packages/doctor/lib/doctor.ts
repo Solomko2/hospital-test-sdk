@@ -1,5 +1,5 @@
 export class Doctor {
-    get222s(id: string) {
+    get(id: string) {
         return {}
     }
 }
