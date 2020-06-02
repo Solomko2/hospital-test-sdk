@@ -10,15 +10,13 @@
     "lib": "lib",
     "test": "__tests__"
   },
-  "publicConfig": {
-    "access": "public"
-  },
   "files": [
     "lib"
   ],
+
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "91f5a2fe97861ec15dbeafd2d143ffa765a1df92"
+  "gitHead": "d6e431fa97f5344e3ca4577ded7899f891b44b03"
 }
