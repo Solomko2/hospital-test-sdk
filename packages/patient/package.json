@@ -1,5 +1,5 @@
 {
-  "name": "@hospital-sdk/patient",
+  "name": "@hospital-test-sdk/patient",
   "version": "3.0.0",
   "description": "> TODO: description",
   "author": "Oleksii Solomko <solomko2006@gmail.com>",
@@ -20,5 +20,5 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "80e96ed73021ddadabe490430e7f81c246ef1176"
+  "gitHead": "91f5a2fe97861ec15dbeafd2d143ffa765a1df92"
 }

@@ -1,5 +1,5 @@
 export class Schedular {
-    get1(id: string) {
+    get(id: string) {
         return {}
     }
 }
