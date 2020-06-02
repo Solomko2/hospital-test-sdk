@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Doctor = void 0;
 class Doctor {
-    get(id) {
+    get1(id) {
         return {};
     }
 }
