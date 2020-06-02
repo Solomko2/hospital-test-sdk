@@ -1,5 +1,5 @@
 export class Doctor {
-    get(id: string) {
+    getTest(id: string) {
         return {}
     }
 }
