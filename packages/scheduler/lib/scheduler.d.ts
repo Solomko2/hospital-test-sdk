@@ -1,3 +1,3 @@
 export declare class Schedular {
-    getTest(id: string): {};
+    get(id: string): {};
 }

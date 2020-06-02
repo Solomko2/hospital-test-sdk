@@ -1,3 +1,3 @@
 export declare class Doctor {
-    getTest(id: string): {};
+    get(id: string): {};
 }

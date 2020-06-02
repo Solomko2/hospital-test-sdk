@@ -1,3 +1,3 @@
 export declare class Patient {
-    getTest(id: string): {};
+    get(id: string): {};
 }

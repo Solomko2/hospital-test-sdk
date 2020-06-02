@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Schedular = void 0;
 class Schedular {
-    getTest(id) {
+    get(id) {
         return {};
     }
 }
