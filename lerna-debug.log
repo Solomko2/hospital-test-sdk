@@ -1,0 +1,5 @@
+48 error Error: Command failed: git tag v1.0.0 -m v1.0.0
+48 error fatal: tag 'v1.0.0' already exists
+48 error
+48 error     at makeError (/private/var/www/hospital/node_modules/execa/index.js:174:9)
+48 error     at /private/var/www/hospital/node_modules/execa/index.js:278:16
